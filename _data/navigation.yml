@@ -3,19 +3,16 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: "Cycling"
-    url: /cycling/
-
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/      
     
-  - title: "Portfolio"
-    url: /portfolio/
-    
   - title: "CV"
     url: /cv/
+
+  - title: "Cycling"
+    url: /cycling/
     
 
