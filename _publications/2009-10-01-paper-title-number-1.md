@@ -1,7 +1,7 @@
 ---
 title: "GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders"
 collection: publications
-date: 2023
+date: 2023-9-20
 venue: 'Machine Learning: Science and Technology'
 paperurl: ' https://arxiv.org/abs/2309.11537'
 ---
