@@ -24,7 +24,7 @@ Here are some datapoints from my power curve: <br>
 
 And here are some pictures!<br>
 Here I'm in Capriasca, Switzerland, for a 3-day bike touring trip. I'm right in front - maroon jersey, black shorts. <br>
-<img src='/images/capriasca_me_back.jpg' alt="drawing" width="200"/> <br>
+<img src='/images/capriasca_me_back.jpg' alt="drawing" width="400"/> <br>
 <br>
 On this ride, I went to Saint-Gervais-Les-Bains, to watch the 15th stage of the 2023 Tour de France. Here's Tadej Pogacar, with the backdrop of Mont Blanc! <br>
 <img src='/images/tadej_montblanc.jpg'>  <br>
