@@ -13,12 +13,10 @@ I do a fair bit of training, and love playing the game of tracking all my fitnes
 <br>
 
 Here are some datapoints from my power curve: <br>
-| Time | Power | <br>
-|------|-------|<br>
-|  5s  | 1525W |<br>
-|  10s | 1356W |<br>
-|  60s | 658W  |<br>
-|  5m  | 399W  |<br>
-|  10m | 349W  |<br>
-|  20m | 315W  |<br>
-|  MAP | 377W  |<br>
+  5s  - 1525W <br>
+  10s - 1356W <br>
+  60s - 658W  <br>
+  5m  - 399W  <br>
+  10m - 349W  <br>
+  20m - 315W  <br>
+  MAP - 377W  <br>
