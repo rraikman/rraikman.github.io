@@ -24,11 +24,14 @@ Here are some datapoints from my power curve: <br>
 
 And here are some pictures!<br>
 Here I'm in Capriasca, Switzerland, for a 3-day bike touring trip. I'm right in front - maroon jersey, black shorts. <br>
-<img src='/images/capriasca_me_back.jpg'> <br>
+<img src='/images/capriasca_me_back.jpg' alt="drawing" width="200"/> <br>
+<br>
 On this ride, I went to Saint-Gervais-Les-Bains, to watch the 15th stage of the 2023 Tour de France. Here's Tadej Pogacar, with the backdrop of Mont Blanc! <br>
 <img src='/images/tadej_montblanc.jpg'>  <br>
+<br>
 This picture is from by 330-mile backpacking trip from Washington, DC to Pittsburgh, PA along the C&O canal and GAP! <br>
 <img src='/images/dc_trip_with_tarun.jpg'>  <br>
+<br>
 On this ride, I was going up the Col du Sanetsch. It was 25.7km (16mi) long, with an elevation gain of 1818m (5960ft)! Here, I was fuelling up at a grocery store in Sion, Switzerland - look at all that chocolate! <br>
 <img src='/images/wall_of_chocolate.jpg'> 
 
