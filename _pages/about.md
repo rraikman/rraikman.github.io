@@ -12,6 +12,7 @@ Hi! I'm Ryan Raikman, currently a senior (4th year) undergraduate at [Carnegie M
 
 [Find my CV here!](http://rraikman.github.io/files/CV_final.pdf)
 
+A high-altitude lake on my way up the Barrhorn (3610m or 11843ft) in the Pennine Alps, Switzerland! 
 <img src='/images/barrhorn_lake.jpg'>
-
+The Seljalandsfoss - a 60m waterfall in the South of Iceland. I even walked behind it!
 <img src='/images/iceland_waterfall.jpg'>

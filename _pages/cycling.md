@@ -20,3 +20,15 @@ Here are some datapoints from my power curve: <br>
   10m - 349W  <br>
   20m - 315W  <br>
   MAP - 377W  <br>
+
+
+And here are some pictures!<br>
+Here I'm in Capriasca, Switzerland, for a 3-d bike touring trip. I'm right in front - maroon jersey, black shorts.
+<img src='/images/capriasca_me_back.jpg'>
+On this ride, I went to Saint-Gervais-Les-Bains, to watch the 15th stage of the 2023 Tour de France. Here's Tadej Pogacar, with the backdrop of Mont Blanc!
+<img src ='images/tadej_montblanc.jpg'> 
+This picture is from by 330-mile backpacking trip from Washington, DC to Pittsburgh, PA along the C&O canal and GAP! 
+<img src ='images/dc_trip_with_tarun.jpg'> 
+On this ride, I was going up the Col du Sanetsch. It was 25.7km (16mi) long, with an elevation gain of 1818m (5960ft)! Here, I was fuelling up at a grocery store - look at all that chocolate!
+<img src ='images/wall_of_chocolate.jpg'> 
+
