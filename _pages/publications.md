@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+2023-9-20 "GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders"
+[See paper here]( https://arxiv.org/abs/2309.11537)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
