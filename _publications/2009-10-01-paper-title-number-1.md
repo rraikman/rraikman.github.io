@@ -6,5 +6,5 @@ date: 2023-9-20
 venue: 'Machine Learning: Science and Technology'
 paperurl: ' https://arxiv.org/abs/2309.11537'
 ---
-[Download paper here]( https://arxiv.org/abs/2309.11537)
+[See paper here]( https://arxiv.org/abs/2309.11537)
 
