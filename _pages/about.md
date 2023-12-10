@@ -12,3 +12,6 @@ Hi! I'm Ryan Raikman, currently a senior (4th year) undergraduate at [Carnegie M
 
 [Find my CV here!](http://rraikman.github.io/files/CV_final.pdf)
 
+<img src='/images/barrhorn_lake.jpg'>
+
+<img src='/images/iceland_waterfall.jpg'>
