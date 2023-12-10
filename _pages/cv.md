@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="CV_final.pdf" type = "application/pdf">
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
