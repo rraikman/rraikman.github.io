@@ -5,7 +5,7 @@ permalink: /cycling/
 author_profile: true
 ---
 
-For the last ~2 years, I have been pretty involved in road cycling! I ride mostly on the road, but recently have been doing a lot of gravel biking as well. Upon coming to MIT in fall 2024 for my PhD in physics, I plan to join the MIT cyclinc club, and maybe Green Line Velo.I was the president of Carnegie Mellon's [Cycling Club](https://www.strava.com/clubs/carnegie-mellon-cycling-club-8373). I've been doing a bit of racing - check out my [road results](https://www.road-results.com/racer/238880). I even dabbled in a bit of [cyclocross](https://www.crossresults.com/racer/213429), but I'm excited to try some more! <br>
+For the last ~2 years, I have been pretty involved in road cycling! I ride mostly on the road, but recently have been doing a lot of gravel biking as well. Upon coming to MIT in fall 2024 for my PhD in physics, I plan to join the MIT cycling club, and maybe Green Line Velo.I was the president of Carnegie Mellon's [Cycling Club](https://www.strava.com/clubs/carnegie-mellon-cycling-club-8373). I've been doing a bit of racing - check out my [road results](https://www.road-results.com/racer/238880). I even dabbled in a bit of [cyclocross](https://www.crossresults.com/racer/213429), but I'm excited to try some more! <br>
 
 In the summer of 2023, I was in Versoix, Switzerland (near Geneve) on a research fellowship. I did some pretty epic rides - check out my [strava](https://www.strava.com/athletes/89886847)! Notably, I went to see the tour de france twice. Both were ~200 km rides, and I got some sweet pictures of the pros! <br>
 
