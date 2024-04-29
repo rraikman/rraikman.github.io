@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+2023  Marx et. Al <br>
+[A machine-learning pipeline for real-time detection of gravitational waves from compact binary coalescences]( https://arxiv.org/abs/2403.18661) <br>
+Real-time detection of gravitational waves in the LIGO detectors using machine learning models.
+ <br>
+
+
 2023  **R. Raikman**, E. Moreno, K. Govorkova, P.Harris, E. Katsavounidis <br>
 [GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders]( https://arxiv.org/abs/2309.11537) <br>
 Machine learning for the detection of anomalous/unmodeled gravitational wave signals in the [LIGO](https://www.ligo.caltech.edu/) gravitational wave detectors. Also published in [MLST](https://iopscience.iop.org/article/10.1088/2632-2153/ad3a31) (Machine Learning: Science and Technology) <br>
