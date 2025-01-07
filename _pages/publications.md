@@ -10,6 +10,7 @@ author_profile: true
 Real-time detection of gravitational waves in the LIGO detectors using machine learning models.
  <br>
 
+2024 **R. Raikman**, E. Moreno, K. Govorkova, P.Harris, E. Katsavounidis FILL ME
 
 2023  **R. Raikman**, E. Moreno, K. Govorkova, P.Harris, E. Katsavounidis <br>
 [GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders]( https://arxiv.org/abs/2309.11537) <br>
